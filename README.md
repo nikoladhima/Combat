@@ -8,7 +8,6 @@
 - Antilock/Antiaim ⚡
 - Visuals 👁️
 - Miscellaneous 👾
-- Built-in ANTI-AFK ⌨️
 
 ## 🔌Shortened Script
 ```lua
