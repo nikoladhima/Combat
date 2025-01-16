@@ -1,4 +1,4 @@
-## ⚡ Features
+## ⚡ Features:
 {{__, Universal || IN BETA ,__}}
 - Camera aimbot 🎮
 - Prediction 🌐
