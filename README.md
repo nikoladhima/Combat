@@ -7,6 +7,7 @@
 - Player movement 🏃‍♂️
 - Antilock/Antiaim ⚡
 - Visuals 👁️
+- Player Manipulations 🏃‍♂️
 - Miscellaneous 👾
 
 ## 🔌Shortened Script
