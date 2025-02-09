@@ -1,3 +1,5 @@
+![Uploading combatAimbotThumbnail.jpg…]()
+
 ## ⚡ Features:
 {{__, Universal || IN BETA ,__}}
 - Camera aimbot 🎮
