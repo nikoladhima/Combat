@@ -1,6 +1,6 @@
-![Uploading combatAimbotThumbnail.jpg…]()
+## ![combatAimbotThumbnail](https://github.com/user-attachments/assets/6eb77294-5505-438e-be05-1615ffd421ce)
 
-## ⚡ Features:
+⚡ Features:
 {{__, Universal || IN BETA ,__}}
 - Camera aimbot 🎮
 - Prediction 🌐
