@@ -125,11 +125,11 @@ local function removeEsp(player)
     local esp = cache[player]
     if not esp then return end
 
-    for _, drawing in pairs(esp) do
+    --[[for _, drawing in pairs(esp) do
         pcall(function()
 drawing:Remove()
 end)
-    end
+    end]]
 
     cache[player] = nil
 end
