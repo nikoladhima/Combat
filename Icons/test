@@ -126,7 +126,9 @@ local function removeEsp(player)
     if not esp then return end
 
     for _, drawing in pairs(esp) do
-        pcall(drawing:Remove())
+        pcall(function()
+drawing:Remove()
+end)
     end
 
     cache[player] = nil
